@@ -1,8 +1,8 @@
 # Ubuntu VNC with ROS Melodic
 
-This Image contains an Ubuntu 18.04 Xfce desktop environment and VNC/noVNC servers for headless use,  and also ROS Melodic Desktop with all dependencies already installed.
+This Image contains an Ubuntu 18.04 Xfce desktop environment and VNC/noVNC servers for headless use,  and also [ROS Melodic](https://www.ros.org/) Desktop with all dependencies already installed.
 
-It is intended to be used in robot applications with simulator like VREP .
+It is intended to be used in robot applications with simulator like [CoppeliaSim](http://www.coppeliarobotics.com/).
 
 ## Ports
 Following TCP ports are exposed:
